@@ -1,7 +1,7 @@
 # 🤖 Telegram Bot Development
 
 **📌 Description:**
-An advanced Telegram bot built with Pyrogram, designed to provide interactive entertainment and AI-powered features. The bot includes games, leaderboards, image generation via FusionBrain AI, user funds tracking, and a dynamic quest system — all stored locally in JSON format.
+An advanced Telegram bot built with Pyrogram, designed to provide interactive entertainment and AI-powered features. The bot includes games, leaderboards, image generation via FusionBrain AI, user funds tracking, and a dynamic quest system and all stored locally in JSON format.
 
 **🔧 Technologies:**
 Python, Pyrogram, FusionBrain AI API, JSON, Base64, AsyncIO
